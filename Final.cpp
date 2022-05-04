@@ -1,6 +1,3 @@
-﻿// Попытка1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
 #define _USE_MATH_DEFINES
 #define _CRT_SECURE_NO_WARNINGS
 
